@@ -55,4 +55,13 @@ span{
     margin: 20px;
     position: absolute;
    bottom: 90px; 
+
+}
+.blue{
+    background-color: lightskyblue;
+    color: blue;
+}
+.green{
+    background-color: lightgreen;
+    color: green;
 }
