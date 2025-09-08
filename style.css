@@ -14,12 +14,14 @@ body{
 .A{
     width: 260px;
    background-color: white;
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+   
     
 }
 .container{
     display: flex; 
-   gap: 20px;
-  
+   gap: 20px; 
+   
     
 }
 button{
@@ -28,7 +30,6 @@ button{
     color: palevioletred;
     padding: 3px;
     border-radius: 5px;
-    /* margin-top: 10px; */
     margin-left: 10px;
 }
 p{
@@ -52,6 +53,6 @@ span{
     color: white;
     padding: 10px;
     margin: 20px;
-   position: absolute;
-   bottom: 90px;
+    position: absolute;
+   bottom: 90px; 
 }
