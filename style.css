@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+   
+}
+.A{
+    width: 260px;
+   background-color: white;
+    
+}
+.container{
+    display: flex; 
+   gap: 20px;
+  
+    
+}
+button{
+    background-color: pink;
+    border: none;
+    color: palevioletred;
+    padding: 3px;
+    border-radius: 5px;
+    /* margin-top: 10px; */
+    margin-left: 10px;
+}
+p{
+    font-size: 15px;
+     margin-top: 10px;
+      margin-left: 10px;
+
+    
+}
+.fa-regular{
+    margin-top: 10px;
+    margin-bottom: 10px;
+     margin-left: 10px;
+}
+img{
+    margin: 20px;
+   
+}
+span{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+   position: absolute;
+   bottom: 90px;
+}
